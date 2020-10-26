@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;myrunnable&apos; to &apos;MyRunnable&apos;&#x0D;&#x0A;- Original project: &apos;Practice&apos;&#x0D;&#x0A;- Original element: &apos;myrunnable&apos;&#x0D;&#x0A;- Renamed element: &apos;MyRunnable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;myrunnable&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{myrunnable.java[myrunnable" matchStrategy="1" name="MyRunnable" qualified="false" references="true" similarDeclarations="false" stamp="1599413773110" textual="false" version="1.0"/>
-</session>
